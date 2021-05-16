@@ -1,9 +1,9 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Nphisher 	: 	Automated Phishing Tool
+##   Author 	: 	NIKHIL PATEL
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/nikhilpatel4
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
@@ -15,7 +15,8 @@
 ##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
 
 
-## If you Copy Then Give the credits :)
+## If you Copy Then Give the credits :) 
+## copied from zphisher
 
 
 
