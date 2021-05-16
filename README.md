@@ -38,32 +38,32 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/nikhilpatel4/Nphisher
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `Nphisher.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd Nphisher
+$ bash Nphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull nikhilpatel4/Nphisher
+$ docker run --rm -it nikhilpatel4/Nphisher
 ```
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`Nphisher`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> All the dependencies will be installed automatically when you run `Nphisher` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
@@ -86,7 +86,6 @@ $ docker run --rm -it htrtech/zphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/nikhilpatel4" target="_blank"><img src="https://img.shields.io/badge/Github-NIKHIL--PATEL-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/nikhilp4tel" target="_blank"><img src="https://img.shields.io/badge/IG-%40nikhilp4tel-red?style=for-the-badge&logo=instagram"></a>
 </p>
